@@ -35,8 +35,6 @@
 
         $("#games").delegate(".game",'click', function(event){
             var data = {
-                app_id  : 4018,
-                timeout : 0,
                 url     : $(this).children("#gameInfo").attr("data_url"),
                 source_info :{
                     input_string : JSON.stringify({
@@ -48,7 +46,7 @@
             };
 
             bdc.external.appSend(
-                    'local/cross/app_open_url',
+                    'local/basic/popup',
                     data || {},
                     function(){
 
