@@ -1,0 +1,1088 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="4399_results.xsl"?>
+<Games>
+<Game type="swf" category="动作类" name="拳皇wing1.85无敌版" img="http://imga2.5054399.com/upload_pic/2013/2/6/4399_19263325447.jpg" intro_url="http://www.4399.com/flash/110116.htm" game_url="http://www.4399.com/flash/110116_4.htm" swf_url="http://s8.4399.com/4399swf/upload_swf/ftp9/honghao/20130206/13.swf" swf_width="640" swf_height="470">
+<Info category="动作小游戏" size="33760K" date="2012-11-18" topics="拳皇 双人小游戏 功夫 无敌版 原创游戏 男生游戏精选" intro="介绍：拳皇wing1.85无敌版，人物无敌，技能无限。Flash格斗类游戏的巅峰系列拳皇wing1.85终于横空出世了，这是一份特殊的新年礼物哦！加入BOSS伊格尼斯全新里模式，更新大蛇里模式，修正暴走八神红色场景，大多数角色加入新的站立动作以区分表里模式。" />
+<GameKey>
+<ul>
+   <li>
+      <span class="player1"/>
+   </li>
+   <li>
+      <span class="ico_c_wasd"/>移动</li>
+   <li>
+      <span class="ico_key">J</span>重拳</li>
+   <li>
+      <span class="ico_key">K</span>重脚</li>
+   <li>
+      <span class="ico_key">L</span>闪避</li>
+   <li>
+      <span class="ico_key">U</span>轻拳</li>
+   <li>
+      <span class="ico_key">I</span>轻脚</li>
+   <li>
+      <span class="ico_key">O</span>爆气/里模式</li>
+</ul>
+<ul>
+   <li>
+      <span class="player2"/>
+   </li>
+   <li>
+      <span class="ico_c_arrows"/>移动</li>
+   <li>
+      <span class="ico_key">1</span>重拳</li>
+   <li>
+      <span class="ico_key">2</span>重脚</li>
+   <li>
+      <span class="ico_key">3</span>闪避</li>
+   <li>
+      <span class="ico_key">4</span>轻拳</li>
+   <li>
+      <span class="ico_key">5</span>轻脚</li>
+   <li>
+      <span class="ico_key">6</span>爆气/里模式</li>
+</ul>
+</GameKey>
+</Game>
+<Game type="swf" category="动作类" name="混乱大格斗2无敌版" img="http://imga3.5054399.com/upload_pic/7272/9/30142.jpg" intro_url="http://www.4399.com/flash/30142.htm" game_url="http://www.4399.com/flash/30142_2.htm" swf_url="http://s7.4399.com:8080/4399swf/upload_swf/ftp/20100513wen/93.swf" swf_width="750" swf_height="563">
+<Info category="动作小游戏" size="13717K" date="2010-05-13" topics="格斗 无敌版" intro="" />
+<GameKey>
+<ul>
+   <li/>
+   <li>
+      <span class="ico_c_arrows"/>移动</li>
+   <li>
+      <span class="ico_key">Z</span>武器1</li>
+   <li>
+      <span class="ico_key">X</span>武器2</li>
+   <li>
+      <span class="ico_key">D</span>扔掉武器</li>
+   <li>
+      <span class="ico_c_space"/>暂停游戏</li>
+</ul>
+</GameKey>
+</Game>
+<Game type="swf" category="动作类" name="DNF2.4无敌版" img="http://imga1.5054399.com/upload_pic/7272/5/48225.jpg" intro_url="http://www.4399.com/flash/48225.htm" game_url="http://www.4399.com/flash/48225_2.htm" swf_url="http://s8.4399.com:8080/4399swf/upload_swf/ftp3/aying/20110127/7.swf" swf_width="640" swf_height="480">
+<Info category="动作小游戏" size="10088K" date="2010-11-19" topics="地下城DNF 格斗 无敌版 男生游戏精选" intro="" />
+<GameKey>
+<ul>
+   <li/>
+   <li>
+      <span class="ico_c_lr"/>左右移动</li>
+   <li>
+      <span class="ico_c_down"/>逆行</li>
+   <li>
+      <span class="ico_key">Z</span>攻击</li>
+   <li>
+      <span class="ico_key">X</span>连续攻击</li>
+   <li>
+      <span class="ico_key">C</span>跳跃</li>
+</ul>
+</GameKey>
+</Game>
+<Game type="swf" category="动作类" name="动漫明星大乱斗无敌版" img="http://imga4.5054399.com/upload_pic/2012/4/18/4399_09223633347.jpg" intro_url="http://www.4399.com/flash/45993.htm" game_url="http://www.4399.com/flash/45993_1.htm" swf_url="http://s5.4399.com:8080/4399swf/upload_swf/ftp2/hanbao/20101229/6.swf" swf_width="750" swf_height="563">
+<Info category="动作小游戏" size="12121K" date="2011-01-06" topics="双人小游戏 格斗 中文精选 原创游戏 无敌版 男生游戏精选" intro="介绍：《动漫明星大乱斗》又和大家见面了，此版本中能量无限，每个角色都有标准模式和强化模式，强化模式拥有超级华丽的技能，大家尽情享受这华丽和梦幻的战斗吧。" />
+<GameKey>
+<ul>
+   <li>
+      <span class="player1"/>
+   </li>
+   <li>
+      <span class="ico_c_wasd"/>人物移动</li>
+   <li>
+      <span class="ico_key">J</span>拳</li>
+   <li>
+      <span class="ico_key">K</span>脚</li>
+   <li>
+      <span class="ico_key">L</span>召唤援助</li>
+   <li>
+      <span class="ico_key">U</span>
+      <span class="ico_key">I</span>必杀技</li>
+</ul>
+<ul>
+   <li>
+      <span class="player2"/>
+   </li>
+   <li>
+      <span class="ico_c_arrows"/>人物移动</li>
+   <li>
+      <span class="ico_key">1</span>拳</li>
+   <li>
+      <span class="ico_key">2</span>脚</li>
+   <li>
+      <span class="ico_key">3</span>召唤援助</li>
+   <li>
+      <span class="ico_key">4</span>
+      <span class="ico_key">5</span>必杀技</li>
+</ul>
+</GameKey>
+</Game>
+<Game type="swf-iframe" category="动作类" name="兔子杀戮4无敌版" img="http://imga4.5054399.com/upload_pic/7272/4/34588.jpg" intro_url="http://www.4399.com/flash/34588.htm" game_url="http://www.4399.com/flash/34588_2.htm" iframe_url="http://s7.4399.com:8080/4399swf/upload_swf/ftp/20100709zhong/4/game3.htm" swf_url="http://s7.4399.com:8080/4399swf/upload_swf/ftp/20100709zhong/4/www.arcadeprehacks.com.swf" swf_width="640" swf_height="480">
+<Info category="动作小游戏" size="6559K" date="2010-07-09" topics="无敌版" intro="" />
+<GameKey>
+<ul>
+   <li/>
+   <li>
+      <span class="ico_c_arrows"/>移动</li>
+   <li>
+      <span class="ico_key">W</span>跳跃</li>
+   <li>
+      <span class="ico_key">A</span>攻击</li>
+   <li>
+      <span class="ico_key">S</span>特殊攻击</li>
+   <li>
+      <span class="ico_key">D</span>瞬移</li>
+</ul>
+</GameKey>
+</Game>
+<Game type="swf-iframe" category="动作类" name="终极忍者2" img="http://imga2.5054399.com/upload_pic/7272/10/14841.jpg" intro_url="http://www.4399.com/flash/14841.htm" game_url="http://www.4399.com/flash/14841_2.htm" iframe_url="http://sxiao.4399.com/4399swf/upload_swf/ftp8/yuanwen/20120409/1/game3.htm" swf_url="http://sxiao.4399.com/4399swf/upload_swf/ftp8/yuanwen/20120409/1/aabc.swf" swf_width="550" swf_height="400">
+<Info category="动作小游戏" size="2347K" date="2009-08-12" topics="忍者 闯关 双刃战士 男生游戏精选" intro="" />
+<GameKey>
+<ul>
+   <li/>
+   <li>
+      <span class="ico_c_mouseleft"/>发射镖/绳索</li>
+   <li>
+      <span class="ico_c_wasd"/>移动方向</li>
+   <li>
+      <span class="ico_key">S</span>隐身</li>
+   <li>
+      <span class="ico_c_down"/>隐身</li>
+</ul>
+</GameKey>
+</Game>
+<Game type="swf" category="动作类" name="大厦暴打僵尸无敌版" img="http://imga4.5054399.com/upload_pic/7272/3/25113.jpg" intro_url="http://www.4399.com/flash/25113.htm" game_url="http://www.4399.com/flash/25113_3.htm" swf_url="http://nitrome.com.4399.com:8080/4399swf/upload_swf/ftp/20100316zhong/1.swf" swf_width="750" swf_height="563">
+<Info category="动作小游戏" size="1451K" date="2010-03-16" topics="僵尸 无敌版" intro="" />
+<GameKey>
+<ul>
+   <li/>
+   <li>
+      <span class="ico_c_mouseleft"/>攻击</li>
+   <li>
+      <span class="ico_c_wasd"/>移动</li>
+</ul>
+</GameKey>
+</Game>
+<Game type="swf" category="体育类" name="火柴人打羽毛球2" img="http://imga3.5054399.com/upload_pic/2012/5/30/4399_14205331920.jpg" intro_url="http://www.4399.com/flash/90302.htm" game_url="http://www.4399.com/flash/90302_3.htm" swf_url="http://sda.4399.com/4399swf/upload_swf/ftp8/caoxinxin/20120530/3.swf" swf_width="640" swf_height="425">
+<Info category="体育小游戏" size="3309K" date="2012-05-30" topics="火柴人 挑战类 双人小游戏 成年人,白领最爱 男生游戏精选" intro="介绍：火柴人打羽毛球2来了，游戏更加好玩。不错的一款游戏，支持双人，可以跟朋友一起玩哦！" />
+<GameKey>
+<ul>
+   <li>
+      <span class="player1"/>
+   </li>
+   <li>
+      <span class="ico_key">A</span>
+      <span class="ico_key">D</span>移动</li>
+   <li>
+      <span class="ico_key">W</span>跳跃</li>
+   <li>
+      <span class="ico_key">S</span>发球/击球</li>
+</ul>
+<ul>
+   <li>
+      <span class="player2"/>
+   </li>
+   <li>
+      <span class="ico_c_left"/>
+      <span class="ico_c_right"/>移动</li>
+   <li>
+      <span class="ico_c_up"/>跳跃</li>
+   <li>
+      <span class="ico_c_down"/>发球/击球</li>
+</ul>
+</GameKey>
+</Game>
+<Game type="swf-iframe" category="体育类" name="3D极速飙车" img="http://imga5.5054399.com/upload_pic/2012/3/13/4399_10222947404.jpg" intro_url="http://www.4399.com/flash/40779.htm" game_url="http://www.4399.com/flash/40779.htm" iframe_url="http://sda.4399.com/4399swf/upload_swf/ftp9/honghao/20130128/9/Pack_jifen3.htm" swf_url="http://sda.4399.com/4399swf/upload_swf/ftp9/honghao/20130128/9/main.swf" swf_width="640" swf_height="480">
+<Info category="体育小游戏" size="3342K" date="2010-10-26" topics="赛车 驾驶类 汽车 原创游戏 3D游戏 勋章积分游戏" intro="" />
+<GameKey>
+<ul>
+   <li>
+      <span class="PlayKey"/>
+   </li>
+   <li>
+      <span class="ico_c_ud"/>加速刹车</li>
+   <li>
+      <span class="ico_c_lr"/>左右方向</li>
+   <li>
+      <span class="ico_key">1</span>视角一</li>
+   <li>
+      <span class="ico_key">3</span>视角三</li>
+   <li>
+      <span class="ico_c_space"/>暂停</li>
+</ul>
+</GameKey>
+</Game>
+<Game type="swf-iframe" category="体育类" name="美羊羊卡丁车" img="http://imga2.5054399.com/upload_pic/2012/3/15/4399_16271837650.jpg" intro_url="http://www.4399.com/flash/14316.htm" game_url="http://www.4399.com/flash/14316.htm" iframe_url="http://s1.4399.com:8080/4399swf/upload_swf/ftp8/fanyiss/20120410/8/jifen2.htm" swf_url="http://s1.4399.com:8080/4399swf/upload_swf/ftp8/fanyiss/20120410/8/mainload.swf" swf_width="640" swf_height="480">
+<Info category="体育小游戏" size="586K" date="2009-07-10" topics="喜羊羊与灰太狼 赛车 卡丁车 中文精选 勋章积分游戏 单人" intro="" />
+<GameKey>
+<ul>
+   <li>
+      <span class="PlayKey"/>
+   </li>
+   <li>
+      <span class="ico_c_lr"/>左右移动</li>
+   <li>
+      <span class="ico_c_space"/>跳跃</li>
+</ul>
+</GameKey>
+</Game>
+<Game type="swf-iframe" category="体育类" name="暴力摩托" img="http://imga5.5054399.com/upload_pic/7272/9/12164.jpg" intro_url="http://www.4399.com/flash/12164.htm" game_url="http://www.4399.com/flash/12164.htm" iframe_url="http://sxiao.4399.com/4399swf/upload_swf/ftp8/fanyiss/20120814/1/jifen2.htm" swf_url="http://sxiao.4399.com/4399swf/upload_swf/ftp8/fanyiss/20120814/1/mainload.swf" swf_width="550" swf_height="420">
+<Info category="体育小游戏" size="1141K" date="2009-04-17" topics="摩托 赛车 驾驶类 勋章积分游戏 男生游戏精选" intro="" />
+<GameKey>
+<ul>
+   <li>
+      <span class="PlayKey"/>
+   </li>
+   <li>
+      <span class="ico_c_up"/>
+      <span class="ico_c_down"/>加速/减速</li>
+   <li>
+      <span class="ico_c_lr"/>左右转弯</li>
+</ul>
+</GameKey>
+</Game>
+<Game type="swf-iframe" category="体育类" name="街头暴扣" img="http://imga5.5054399.com/upload_pic/2012/3/13/4399_10254146241.jpg" intro_url="http://www.4399.com/flash/61044.htm" game_url="http://www.4399.com/flash/61044.htm" iframe_url="http://sda.4399.com/4399swf/upload_swf/ftp9/fanyiss/20130131/1/jifen3.htm" swf_url="http://sda.4399.com/4399swf/upload_swf/ftp9/fanyiss/20130131/1/mainload.swf" swf_width="660" swf_height="377">
+<Info category="体育小游戏" size="13312K" date="2010-09-15" topics="篮球 Miniclip 单人 勋章积分游戏 男生游戏精选" intro="" />
+<GameKey>
+<ul>
+   <li>
+      <span class="PlayKey"/>
+   </li>
+   <li>
+      <span class="ico_c_wasd"/>移动</li>
+   <li>
+      <span class="ico_key">J</span>投篮/抢断</li>
+   <li>
+      <span class="ico_key">K</span>快速疾走</li>
+   <li>
+      <span class="ico_key">L</span>传球/盖帽</li>
+</ul>
+</GameKey>
+</Game>
+<Game type="swf-iframe" category="射击类" name="经典90坦克大战" img="http://imga4.5054399.com/upload_pic/2012/3/15/4399_16055981233.jpg" intro_url="http://www.4399.com/flash/4963.htm" game_url="http://www.4399.com/flash/4963.htm" iframe_url="http://s1.4399.com:8080/4399swf/upload_swf/ftp5/haibo/20110711/2/jifen2.htm" swf_url="http://s1.4399.com:8080/4399swf/upload_swf/ftp5/haibo/20110711/2/mainload.swf" swf_width="640" swf_height="520">
+<Info category="射击小游戏" size="131K" date="2007-01-24" topics="坦克 双人小游戏 勋章积分游戏 男生游戏精选" intro="" />
+<GameKey>
+<ul>
+   <li>
+      <span class="player1"/>
+   </li>
+   <li>
+      <span class="ico_c_wasd"/>移动坦克</li>
+   <li>
+      <span class="ico_key">J</span>射击</li>
+</ul>
+<ul>
+   <li>
+      <span class="player2"/>
+   </li>
+   <li>
+      <span class="ico_c_arrows"/>移动坦克</li>
+   <li>
+      <span class="ico_key">0</span>射击</li>
+</ul>
+</GameKey>
+</Game>
+<Game type="swf-iframe" category="射击类" name="二战前线2无敌版" img="http://imga5.5054399.com/upload_pic/7272/9/21674.jpg" intro_url="http://www.4399.com/flash/21674.htm" game_url="http://www.4399.com/flash/21674_3.htm" iframe_url="http://sda.4399.com/4399swf/upload_swf/ftp/20100501/commando2super/game888.html" swf_url="http://sda.4399.com/4399swf/upload_swf/ftp/20100501/commando2super/play888.swf" swf_width="640" swf_height="450">
+<Info category="射击小游戏" size="14772K" date="2009-12-29" topics="合金弹头 二战前线全集 特种兵 枪战&amp;特警 无敌版 单人" intro="介绍：这次的二战前线2版本的游戏是最无敌的！可以随意调关卡、武器全开、血无限。还有什么比这爽的？！速速来体验吧！" />
+<GameKey>
+<ul>
+   <li/>
+   <li>
+      <span class="ico_c_wasd"/>移动跳跃</li>
+   <li>
+      <span class="ico_c_mouseleft"/>射击</li>
+   <li>
+      <span class="ico_key">Q</span>
+      <span class="ico_key">E</span>切换武器</li>
+</ul>
+</GameKey>
+</Game>
+<Game type="swf" category="射击类" name="黄金沙鹰无敌版" img="http://imga3.5054399.com/upload_pic/2012/7/5/4399_15404321992.jpg" intro_url="http://www.4399.com/flash/63957.htm" game_url="http://www.4399.com/flash/63957_2.htm" swf_url="http://sxiao.4399.com/4399swf/upload_swf/ftp5/hanbao/20110714/4.swf" swf_width="800" swf_height="480">
+<Info category="射击小游戏" size="3564K" date="2011-07-13" topics="反恐精英 无敌版 闯关 原创游戏 男生游戏精选" intro="介绍：黄金沙鹰无敌版，血量无限，让你轻松通关。新武器-黄金沙鹰，新地图-血战波斯，新角色-赛斯，快来体验一下吧！" />
+<GameKey>
+<ul>
+   <li/>
+   <li>
+      <span class="ico_c_mouseleft"/>瞄准射击</li>
+</ul>
+</GameKey>
+</Game>
+<Game type="swf-iframe" category="射击类" name="TH穿越火线1.45" img="http://imga5.5054399.com/upload_pic/2014/10/4/4399_09243588638.jpg" intro_url="http://www.4399.com/flash/144609.htm" game_url="http://www.4399.com/flash/144609_4.htm" iframe_url="http://sxiao.4399.com/4399swf/upload_swf/ftp14/csya/20140928/5/jifen3.htm" swf_url="http://sxiao.4399.com/4399swf/upload_swf/ftp14/csya/20140928/5/main.swf" swf_width="800" swf_height="480">
+<Info category="射击小游戏" size="162719K" date="2014-10-02" topics="CF 反恐精英 狙击手 原创游戏 男生游戏精选" intro="介绍：1.45版本添加了修罗沙鹰、圣诞MG3及很多极品武器。新增了刀战模式、变身生化剑客技能、两个新僵尸角色、两幅新生化地图，修改变身后的血量为9999." />
+<GameKey>
+<ul>
+   <li/>
+   <li>
+      <span class="ico_c_mouseleft"/>瞄准射击</li>
+   <li>
+      <span class="ico_key">W</span>
+      <span class="ico_key">S</span>前进后退</li>
+   <li>
+      <span class="ico_key">R</span>换弹夹</li>
+   <li>
+      <span class="ico_key">1</span>
+      <span class="ico_key">2</span>
+      <span class="ico_key">3</span>选择武器</li>
+   <li>
+      <span class="ico_key">Q</span>切换武器</li>
+   <li>
+      <span class="ico_c_space"/>使用特殊武器</li>
+   <li>
+      <span class="ico_key">F</span>暴走</li>
+</ul>
+</GameKey>
+</Game>
+<Game type="swf" category="射击类" name="战火英雄2中文无敌版" img="http://imga5.5054399.com/upload_pic/2013/4/9/4399_17212539066.jpg" intro_url="http://www.4399.com/flash/113859.htm" game_url="http://www.4399.com/flash/113859_4.htm" swf_url="http://szhong.4399.com/4399swf/upload_swf/ftp15/gamehwq/20150403/6.swf" swf_width="800" swf_height="600">
+<Info category="射击小游戏" size="15946K" date="2013-04-09" topics="枪战&amp;特警 男生游戏精选 闯关 中文精选 无敌版 单人" intro="介绍：战火英雄2中文无敌版携卷漫天硝烟火爆登场！！！无敌版中人物无敌。这是一款重新定义枪战游戏的鸿篇钜制，拉开了一场属于男人的热血战斗；这是一款运气与实力博弈的生命游戏，宣告了一次关于生命的天意审判；这是一款糅杂时空与人文的史诗大作，上演了一曲开疆辟土的英雄赞歌！战火英雄，一群无畏的勇者，注定改变历史的洪流，影响整个世界的轨迹……未来？未来的世界将以你为王！" />
+<GameKey>
+<ul>
+   <li/>
+   <li>
+      <span class="ico_c_mouseleft"/>瞄准操作</li>
+   <li>
+      <span class="ico_key">A</span>
+      <span class="ico_key">D</span>移动</li>
+   <li>
+      <span class="ico_key">W</span>跳跃</li>
+   <li>
+      <span class="ico_key">S</span>蹲下</li>
+   <li>
+      <span class="ico_key">R</span>装弹</li>
+   <li>
+      <span class="ico_key">E</span>技能</li>
+   <li>
+      <span class="ico_key">Q</span>切换武器</li>
+</ul>
+</GameKey>
+</Game>
+<Game type="swf-iframe" category="益智类" name="宠物连连看2.5版" img="http://imga3.5054399.com/upload_pic/2012/3/15/4399_16210762932.jpg" intro_url="http://www.4399.com/flash/1382.htm" game_url="http://www.4399.com/flash/1382.htm" iframe_url="http://s1.4399.com:8080/4399swf/upload_swf/ftp6/haibo/20110715/1/jifen2.htm" swf_url="http://s1.4399.com:8080/4399swf/upload_swf/ftp6/haibo/20110715/1/mainload.swf" swf_width="640" swf_height="440">
+<Info category="益智小游戏" size="347K" date="2004-11-30" topics="连连看全集 经典 中文精选 勋章积分游戏 单人 成年人,白领最爱" intro="" />
+<GameKey>
+<ul>
+   <li>
+      <span class="PlayKey"/>
+   </li>
+   <li>
+      <span class="ico_c_mouseleft"/>鼠标操作</li>
+   <li/>
+</ul>
+</GameKey>
+</Game>
+<Game type="swf-iframe" category="益智类" name="小鳄鱼爱洗澡中文版" img="http://imga2.5054399.com/upload_pic/2012/7/17/4399_09483612600.jpg" intro_url="http://www.4399.com/flash/93551.htm" game_url="http://www.4399.com/flash/93551_3.htm" iframe_url="http://sda.4399.com/4399swf/upload_swf/ftp8/linqinson/20120718/2/wmw_spl_act_wheresmywater/game7.htm" swf_url="http://sda.4399.com/4399swf/upload_swf/ftp8/linqinson/20120718/2/wmw_spl_act_wheresmywater/game.swf?apiUrl=minigameapi22.swf&amp;apiConfigUrl=minigameAPIConfig.xml&amp;gameConfigUrl=8412.xml" swf_width="750" swf_height="500">
+<Info category="益智小游戏" size="6297K" date="2012-07-15" topics="物理 闯关 经典 中文精选 男生游戏精选 手机游戏电脑版" intro="介绍：《小鳄鱼爱洗澡》flash中文版来啦！这是一款趣味的益智游戏，游戏中讲述的是住在城市下面鳄鱼小顽皮（Swampy）希望过上人类一样的生活。他非常喜欢干净，可鳄鱼大顽固（Cranky）不满小顽皮的怪癖，密谋破坏鳄鱼小顽皮的水源供应，玩家需要帮助小顽皮把水引到他的浴缸。" />
+<GameKey>
+<ul>
+   <li/>
+   <li>
+      <span class="ico_c_mouseleft"/>鼠标操作</li>
+</ul>
+</GameKey>
+</Game>
+<Game type="swf-iframe" category="益智类" name="青蛙祖玛" img="http://imga4.5054399.com/upload_pic/2014/3/14/4399_13560020063.jpg" intro_url="http://www.4399.com/flash/17403.htm" game_url="http://www.4399.com/flash/17403.htm" iframe_url="http://sda.4399.com/4399swf/upload_swf/ftp5/haibo/20110709/3/jifen2.htm" swf_url="http://sda.4399.com/4399swf/upload_swf/ftp5/haibo/20110709/3/mainload.swf" swf_width="480" swf_height="360">
+<Info category="益智小游戏" size="1062K" date="2009-08-21" topics="祖玛 勋章积分游戏" intro="" />
+<GameKey>
+<ul>
+   <li>
+      <span class="PlayKey"/>
+   </li>
+   <li>
+      <span class="ico_c_mouseleft"/>鼠标操作</li>
+   <li>
+      <span class="ico_c_space"/>切换小球颜色</li>
+</ul>
+</GameKey>
+</Game>
+<Game type="swf" category="益智类" name="森林冰火人中文版" img="http://imga1.5054399.com/upload_pic/2012/3/12/4399_16064659687.jpg" intro_url="http://www.4399.com/flash/20660.htm" game_url="http://www.4399.com/flash/20660_2.htm" swf_url="http://sxiao.4399.com/4399swf/upload_swf/ftp2/xiaoyuan/201012021/10.swf" swf_width="640" swf_height="480">
+<Info category="益智小游戏" size="1812K" date="2009-12-02" topics="森林冰火人 中文精选 闯关 原创游戏 双人小游戏 经典" intro="介绍：森林冰火人中文版，中文字幕让你看得懂。有趣的脑力游戏，男生和女生，化身为水火不熔的火精灵跟水精灵。你要做的就是收集，代表各自元素的石头。巧妙解开各种机关，顺利到达出口。要注意的是，不能吃掉对方的宝石或是掉落对方元素的沼泽中哦，绿色的沼泽是不分水火全部杀掉的。" />
+<GameKey>
+<ul>
+   <li/>
+   <li>
+      <span class="ico_c_wasd"/>女孩移动</li>
+   <li>
+      <span class="ico_c_arrows"/>男孩移动</li>
+</ul>
+</GameKey>
+</Game>
+<Game type="swf-iframe" category="益智类" name="消灭星星中文版" img="http://imga3.5054399.com/upload_pic/2012/12/14/4399_17143645229.jpg" intro_url="http://www.4399.com/flash/106202.htm" game_url="http://www.4399.com/flash/106202.htm" iframe_url="http://sda.4399.com/4399swf/upload_swf/ftp9/honghao/20130108/2/Pack_jifen3.htm" swf_url="http://sda.4399.com/4399swf/upload_swf/ftp9/honghao/20130108/2/main.swf" swf_width="600" swf_height="530">
+<Info category="益智小游戏" size="434K" date="2012-12-14" topics="消消看 原创游戏 勋章积分游戏" intro="" />
+<GameKey>
+<ul>
+   <li>
+      <span class="PlayKey"/>
+   </li>
+   <li>
+      <span class="ico_c_mouseleft"/>鼠标操作</li>
+</ul>
+</GameKey>
+</Game>
+<Game type="swf-iframe" category="益智类" name="愤怒的小鸟太空版HD" img="http://imga5.5054399.com/upload_pic/2012/8/24/4399_09344972231.jpg" intro_url="http://www.4399.com/flash/96689.htm" game_url="http://www.4399.com/flash/96689_3.htm" iframe_url="http://sda.4399.com/4399swf/upload_swf/ftp9/honghao/20130104/10/jifen3.htm" swf_url="http://sda.4399.com/4399swf/upload_swf/ftp9/honghao/20130104/10/main.swf" swf_width="960" swf_height="540">
+<Info category="益智小游戏" size="10490K" date="2012-08-24" topics="愤怒的小鸟 物理 闯关 原创游戏 单人 中文精选" intro="介绍：《愤怒的小鸟太空版》是一款全新的游戏，射出的小鸟在没有重力影响时，轨迹是完全直线的；而一旦有小行星等重力吸引，小鸟的轨迹就会相应发生变化；并增加了空间缩放和拖动功能，点击“+、-”按钮可缩放空间，点住鼠标左键可左右拖动太空画面，广阔的空间会一览无余；绿皮猪有了表情，如睡觉、猪哼、危险来临时会露出害怕之色。在这款游戏中，红色小鸟按照预测轨迹运动；黑色小鸟发射后碰到物体或点击鼠标即可爆炸；小蓝鸟发射后点击鼠标可分身为三只小鸟，扩大打击范围；而三角形的紫色小鸟发射后，点击鼠标就可改变运动轨迹，直接打击任意目标。来玩玩吧！" />
+<GameKey>
+<ul>
+   <li/>
+   <li>
+      <span class="ico_c_mouseleft"/>鼠标操作</li>
+</ul>
+</GameKey>
+</Game>
+<Game type="swf-iframe" category="益智类" name="海绵宝宝3D大富翁2" img="http://imga3.5054399.com/upload_pic/2012/5/11/4399_14515960059.jpg" intro_url="http://www.4399.com/flash/88882.htm" game_url="http://www.4399.com/flash/88882_1.htm" iframe_url="http://sda.4399.com/4399swf/upload_swf/ftp8/yuanwen/20120511/4/game7.htm" swf_url="http://sda.4399.com/4399swf/upload_swf/ftp8/yuanwen/20120511/4/game.swf" swf_width="960" swf_height="500">
+<Info category="益智小游戏" size="78792K" date="2012-05-11" topics="海绵宝宝 大富翁 3D游戏" intro="介绍：海绵宝宝3D大富翁第二部，增加新角色、新关卡，更多好玩小游戏。欢迎来到海绵宝宝的大富翁世界。依旧是超华丽的3D版，你可以选择海绵宝宝和它的好朋友们，通过掷骰子的方式进行积累财富的竞赛，最终目标是获得终极的巨型金币。途中你可能会遇上许多有趣的小游戏考验，利用你的聪明才智和敏捷身手，完成小游戏从而获取高分，率先到达终点即可赢得胜利！" />
+<GameKey>
+<ul>
+   <li/>
+   <li>
+      <span class="ico_c_mouseleft"/>鼠标操作</li>
+   <li>
+      <span class="ico_c_arrows"/>移动</li>
+   <li>
+      <span class="ico_c_space"/>跳跃</li>
+</ul>
+</GameKey>
+</Game>
+<Game type="swf-iframe" category="冒险类" name="剑士之魂" img="http://imga2.5054399.com/upload_pic/2015/9/19/4399_13325864172.jpg" intro_url="http://www.4399.com/flash/162826.htm" game_url="http://www.4399.com/flash/162826_4.htm" iframe_url="http://szhong.4399.com/4399swf/upload_swf/ftp17/gamehwq/20150921/01/game.htm" swf_url="http://szhong.4399.com/4399swf/upload_swf/ftp17/gamehwq/20150921/01/main.swf" swf_width="750" swf_height="563">
+<Info category="冒险小游戏" size="8600K" date="2015-09-20" topics="角色扮演 闯关 单人" intro="介绍：每位剑士一生的追求就是能够修炼到剑士之魂，但是如果只是努力的修炼也是徒劳无功，必须天时地利人和并且自身拥有强大的能力才能够达到最高境界，现在这位剑士想要通过不断的冒险来进行修炼，他能够成功吗？让我们一起去游戏中寻找答案吧！" />
+<GameKey>
+<ul>
+   <li/>
+   <li>
+      <span class="ico_c_mouseleft"/>鼠标操作</li>
+   <li>
+      <span class="ico_c_wasd"/>控制击打方向（训练营）</li>
+   <li>
+      <span class="ico_key">1</span>
+      <strong>~</strong>
+   </li>
+   <li>
+      <span class="ico_key">6</span>使用技能</li>
+</ul>
+</GameKey>
+</Game>
+<Game type="swf" category="冒险类" name="超能陆战队历险记2" img="http://imga2.5054399.com/upload_pic/2015/9/2/4399_14015409846.jpg" intro_url="http://www.4399.com/flash/161966.htm" game_url="http://www.4399.com/flash/161966_2.htm" swf_url="http://szhong.4399.com/4399swf/upload_swf/ftp17/csya/20150903/5.swf" swf_width="700" swf_height="500">
+<Info category="冒险小游戏" size="2315K" date="2015-09-04" topics="冒险 闯关 吃东西 原创游戏 双人小游戏" intro="介绍：《超能陆战队历险记2》经过一段时间的研究，小宏终于让大白学会了牛B的技能，而且小宏自己也学会了释放微型机器人的技能。在这激动人心的时刻，小宏想试试超技能的厉害，于是他俩踏上了历险之路。" />
+<GameKey>
+<ul>
+   <li>
+      <span class="player1"/>
+   </li>
+   <li>
+      <span class="ico_c_lr"/>左右移动</li>
+   <li>
+      <span class="ico_c_up"/>跳跃</li>
+   <li>
+      <span class="ico_c_down"/>解体</li>
+   <li>
+      <span class="ico_c_space"/>复原</li>
+</ul>
+<ul>
+   <li>
+      <span class="player2"/>
+   </li>
+   <li>
+      <span class="ico_key">A</span>
+      <span class="ico_key">D</span>左右移动</li>
+   <li>
+      <span class="ico_key">W</span>跳跃</li>
+   <li>
+      <span class="ico_key">S</span>释放微型机器人</li>
+</ul>
+</GameKey>
+</Game>
+<Game type="swf-iframe" category="冒险类" name="哆啦A梦勇闯巨人岛" img="http://imga1.5054399.com/upload_pic/2015/9/21/4399_16434829930.jpg" intro_url="http://www.4399.com/flash/162910.htm" game_url="http://www.4399.com/flash/162910_4.htm" iframe_url="http://sda.4399.com/4399swf/upload_swf/ftp17/cwb/20150925/y1/jifen3.htm" swf_url="http://sda.4399.com/4399swf/upload_swf/ftp17/cwb/20150925/y1/main.swf" swf_width="800" swf_height="600">
+<Info category="冒险小游戏" size="7753K" date="2015-09-26" topics="哆啦A梦 冒险 闯关 动漫游戏 原创游戏 双人小游戏" intro="介绍：哆啦A梦和大雄通过时光机来到了巨人岛。这个岛屿上有许多怪物和机关。他们顺利逃脱巨人岛呢。让我们来帮助他们吧！" />
+<GameKey>
+<ul>
+   <li>
+      <span class="player1"/>
+   </li>
+   <li>
+      <span class="ico_key">A</span>
+      <span class="ico_key">D</span>移动</li>
+   <li>
+      <span class="ico_key">W</span>爬梯子</li>
+   <li>
+      <span class="ico_key">S</span>爬梯子/蹲下</li>
+   <li>
+      <span class="ico_key">K</span>跳跃</li>
+   <li>
+      <span class="ico_key">J</span>攻击/使用道具</li>
+   <li>
+      <span class="ico_key">L</span>切换道具</li>
+   <li>
+      <span class="ico_c_space"/>切换人物</li>
+</ul>
+<ul>
+   <li>
+      <span class="player2"/>
+   </li>
+   <li>
+      <span class="ico_c_lr"/>移动</li>
+   <li>
+      <span class="ico_c_up"/>爬梯子</li>
+   <li>
+      <span class="ico_c_down"/>爬梯子/蹲下</li>
+   <li>
+      <span class="ico_key">2</span>跳跃</li>
+   <li>
+      <span class="ico_key">1</span>攻击/使用道具</li>
+   <li>
+      <span class="ico_key">3</span>切换道具</li>
+   <li>
+      <span class="ico_key">0</span>召唤大雄</li>
+   <li>
+      <span class="ico_key">R</span>重玩</li>
+</ul>
+</GameKey>
+</Game>
+<Game type="swf" category="冒险类" name="大头儿子小头爸爸2" img="http://imga3.5054399.com/upload_pic/2014/9/16/4399_16311247050.jpg" intro_url="http://www.4399.com/flash/143872.htm" game_url="http://www.4399.com/flash/143872_3.htm" swf_url="http://sxiao.4399.com/4399swf/upload_swf/ftp14/cwb/20140916/y7.swf" swf_width="640" swf_height="480">
+<Info category="冒险小游戏" size="5747K" date="2014-09-17" topics="冒险 闯关 大头儿子 原创游戏 双人小游戏 4399第三届游戏开发大赛" intro="介绍：大头儿子小头爸爸2，增加了20个新关卡。一座普普通通的小屋里，住着大头儿子、小头爸爸和围裙妈妈。在他们普普通通的生活中，总是响起充满欢乐的笑声。最温暖的家又成了他们每个人的爱的源泉。" />
+<GameKey>
+<ul>
+   <li>
+      <span class="player1"/>
+   </li>
+   <li>
+      <span class="ico_key">A</span>
+      <span class="ico_key">D</span>移动</li>
+   <li>
+      <span class="ico_key">W</span>跳跃</li>
+   <li>
+      <span class="ico_key">J</span>攻击</li>
+   <li>
+      <span class="ico_c_space"/>切换武器</li>
+</ul>
+<ul>
+   <li>
+      <span class="player2"/>
+   </li>
+   <li>
+      <span class="ico_c_lr"/>移动</li>
+   <li>
+      <span class="ico_c_up"/>跳跃</li>
+   <li>
+      <span class="ico_key">1</span>攻击</li>
+   <li>
+      <span class="ico_key">0</span>切换武器</li>
+</ul>
+</GameKey>
+</Game>
+<Game type="swf" category="冒险类" name="机器人攻城战无敌版" img="http://imga3.5054399.com/upload_pic/2012/10/15/4399_16285295944.jpg" intro_url="http://www.4399.com/flash/100942.htm" game_url="http://www.4399.com/flash/100942_3.htm" swf_url="http://sda.4399.com/4399swf/upload_swf/ftp8/chenweihong/20121013/9.swf" swf_width="938" swf_height="574">
+<Info category="冒险小游戏" size="4448K" date="2012-10-14" topics="机器人 无敌版 单人 战争 男生游戏精选" intro="介绍：机器人攻城战无敌版，弹药无限。未来世界的局势越来越紧张，局部地区经常性地爆发小型战争，近代军事的特点就是武器特别先进和彪悍。现在Z国和R国爆发了一场战争，玩家要扮演Z国战士，控制最新的机器人将R国军队统统消灭，踏平他们的根据地！" />
+<GameKey>
+<ul>
+   <li/>
+   <li>
+      <span class="ico_c_mouseleft"/>瞄准射击</li>
+   <li>
+      <span class="ico_key">1</span>
+      <span class="ico_key">2</span>
+      <span class="ico_key">3</span>
+      <span class="ico_key">4</span>切换武器</li>
+   <li>
+      <span class="ico_c_space"/>防御</li>
+</ul>
+</GameKey>
+</Game>
+<Game type="swf-iframe" category="冒险类" name="蒙面铠甲大闯关2" img="http://imga1.5054399.com/upload_pic/2015/5/29/4399_09542257420.jpg" intro_url="http://www.4399.com/flash/156920.htm" game_url="http://www.4399.com/flash/156920_4.htm" iframe_url="http://s15.4399.com/4399swf/upload_swf/ftp16/cwb/20150529/y1/jifen3.htm" swf_url="http://s15.4399.com/4399swf/upload_swf/ftp16/cwb/20150529/y1/main.swf" swf_width="800" swf_height="600">
+<Info category="冒险小游戏" size="21981K" date="2015-05-30" topics="铠甲勇士 闯关 冒险 原创游戏 双人小游戏 4399第四届游戏开发大赛" intro="介绍：超火爆的“蒙面铠甲大闯关”游戏2.0全新版本，全新的宠物系统，让游戏不寂寞。一款完全免费的网络游戏，PK，宠物应有尽有。在此祝大家六一节快乐！" />
+<GameKey>
+<ul>
+   <li>
+      <span class="player1"/>
+   </li>
+   <li>
+      <span class="ico_c_wasd"/>移动</li>
+   <li>
+      <span class="ico_key">J</span>攻击</li>
+   <li>
+      <span class="ico_key">K</span>跳跃</li>
+   <li>
+      <span class="ico_key">L</span>防御</li>
+   <li>
+      <span class="ico_key">U</span>特技1</li>
+   <li>
+      <span class="ico_key">I</span>特技2</li>
+</ul>
+<ul>
+   <li>
+      <span class="player2"/>
+   </li>
+   <li>
+      <span class="ico_c_arrows"/>移动</li>
+   <li>
+      <span class="ico_key">1</span>攻击</li>
+   <li>
+      <span class="ico_key">2</span>跳跃</li>
+   <li>
+      <span class="ico_key">3</span>防御</li>
+   <li>
+      <span class="ico_key">4</span>特技1</li>
+   <li>
+      <span class="ico_key">5</span>特技2</li>
+</ul>
+</GameKey>
+</Game>
+<Game type="swf-iframe" category="塔防类" name="植物大战僵尸" img="http://imga3.5054399.com/upload_pic/2012/6/2/4399_14041075644.jpg" intro_url="http://www.4399.com/flash/18012.htm" game_url="http://www.4399.com/flash/18012.htm" iframe_url="http://s4.4399.com/4399swf/upload_swf/ftp/20090929/1/game.htm" swf_url="http://s4.4399.com/4399swf/upload_swf/ftp/20090929/1/pvz_9_15.swf" swf_width="540" swf_height="405">
+<Info category="策略小游戏" size="12509K" date="2009-09-29" topics="守城,塔防 僵尸 闯关小游戏" intro="" />
+</Game>
+<Game type="swf" category="塔防类" name="皇城突袭1.13无敌版" img="http://imga5.5054399.com/upload_pic/2013/3/21/4399_14193544872.jpg" intro_url="http://www.4399.com/flash/112689.htm" game_url="http://www.4399.com/flash/112689_3.htm" swf_url="http://sda.4399.com/4399swf/upload_swf/ftp10/chenweihong/20130321/krhack.swf" swf_width="700" swf_height="600">
+<Info category="策略小游戏" size="31420K" date="2010-12-15" topics="塔防游戏 战争 单人 男生游戏精选 无敌版" intro="介绍：皇城突袭1.13无敌版，开启白金模式，初始金币大涨，升级技能点满（需点reset按钮），解锁全部英雄。此次更新了2个新关卡，3种新敌人，2个新英雄(维京熊人英格瓦和冰雪女神艾尔洛斯)，1个新模式和5种新成就。皇城突袭一代年度更新版本抢先在二代发布的前夕低调上线，每年两次甚至以一次的更新频率让无数粉丝翘首以待望穿秋水，此次更新可谓是相当给力。一起来体验吧！" />
+<GameKey>
+<ul>
+   <li/>
+   <li>
+      <span class="ico_c_mouseleft"/>点击进行建造炮塔、召唤部队、使用技能等操作</li>
+   <li>
+      <span class="ico_key">1</span>
+      <span class="ico_key">2</span>
+      <span class="ico_key">3</span>使用特殊技能</li>
+   <li>
+      <span class="ico_key">P</span>暂停</li>
+</ul>
+</GameKey>
+</Game>
+<Game type="swf" category="塔防类" name="米拉奇战记" img="http://imga2.5054399.com/upload_pic/2012/3/12/4399_21030663161.jpg" intro_url="http://www.4399.com/flash/40566.htm" game_url="http://www.4399.com/flash/40566_2.htm" swf_url="http://sda.4399.com/4399swf/upload_swf/ftp8/linqinson/20120808/3.swf" swf_width="640" swf_height="480">
+<Info category="策略小游戏" size="4559K" date="2010-11-05" topics="塔防游戏 双人小游戏 中文精选 原创游戏 战争 男生游戏精选" intro="介绍：在古老的米拉奇大陆， 红之国与蓝之国为了争夺领土，正在拼命的战斗，选择合适的兵种击败你的对手吧。" />
+<GameKey>
+<ul>
+   <li>
+      <span class="player1"/>
+   </li>
+   <li>
+      <span class="ico_c_wasd"/>选择士兵</li>
+   <li>
+      <span class="ico_c_mouseleft"/>拖动地图移动画面</li>
+</ul>
+<ul>
+   <li>
+      <span class="player2"/>
+   </li>
+   <li>
+      <span class="ico_c_arrows"/>移动</li>
+</ul>
+</GameKey>
+</Game>
+<Game type="swf" category="塔防类" name="战争进化史2无敌版" img="http://imga2.5054399.com/upload_pic/2012/3/12/4399_20385798275.jpg" intro_url="http://www.4399.com/flash/31836.htm" game_url="http://www.4399.com/flash/31836_2.htm" swf_url="http://s7.4399.com:8080/4399swf/upload_swf/ftp/20100531zhong/4.swf" swf_width="640" swf_height="430">
+<Info category="策略小游戏" size="11146K" date="2010-05-31" topics="战争进化史 塔防游戏 无敌版 战争 男生游戏精选 手机游戏电脑版" intro="介绍：战争进化史2无敌版，金钱无限，快速升级。战争进化史第二部推荐给大家，在第一部的基础上增加了新的兵种，可玩性更强，喜欢战争进化史2的玩家赶快抢先体验吧！" />
+<GameKey>
+<ul>
+   <li/>
+   <li>
+      <span class="ico_c_mouseleft"/>点击操作</li>
+</ul>
+</GameKey>
+</Game>
+<Game type="swf-iframe" category="塔防类" name="保卫萝卜电脑版" img="http://imga2.5054399.com/upload_pic/2013/7/12/4399_17190628680.jpg" intro_url="http://www.4399.com/flash/119731.htm" game_url="http://www.4399.com/flash/119731_2.htm" iframe_url="http://sda.4399.com/4399swf/upload_swf/ftp11/chenweihong/20130712/game44/game7.htm" swf_url="http://sda.4399.com/4399swf/upload_swf/ftp11/chenweihong/20130712/game44/commando3.swf" swf_width="790" swf_height="570">
+<Info category="策略小游戏" size="32822K" date="2013-07-12" topics="塔防游戏 手机游戏电脑版 闯关 单人 成年人,白领最爱 外星人" intro="介绍：激萌塔防，可爱来袭，保卫萝卜高清电脑版在这个暑假给你最Q最刺激的冲击。顾名思义，游戏任务就是保卫好萝卜，别让它被外星人吃掉，每个萝卜都设有10滴血的生命值，也就是有10次被怪物“啃咬”的机会，生命值为0时，任务失败。不用我多说，手机端萝卜粉早就期待PC版的上线，现在真的实现了！本次版本更新了天际与丛林两大主题地图，共有24个关卡，并有极具挑战性的Boss模式，还在等什么，一起来体验下高清大屏的畅爽吧！" />
+<GameKey>
+<ul>
+   <li/>
+   <li>
+      <span class="ico_c_mouseleft"/>鼠标操作
+<strong>
+         <font color="#ff0000">温馨提示：搜狗兼容、世界之窗浏览器可能会出现短暂白屏，请玩家耐心等待或者更换其他浏览器哦。</font>
+         <strong/>
+      </strong>
+   </li>
+   <li/>
+</ul>
+</GameKey>
+</Game>
+<Game type="swf" category="塔防类" name="建筑队大战僵尸疯狂版" img="http://imga2.5054399.com/upload_pic/2012/3/13/4399_10283893192.jpg" intro_url="http://www.4399.com/flash/44911.htm" game_url="http://www.4399.com/flash/44911_2.htm" swf_url="http://s7.4399.com:8080/4399swf/upload_swf/ftp2/haibo/20101217/1.swf" swf_width="800" swf_height="600">
+<Info category="策略小游戏" size="3969K" date="2010-12-02" topics="塔防游戏 僵尸 无敌版 男生游戏精选" intro="介绍：建筑队大战僵尸疯狂版，金钱每次加5000。在一个老旧的公园里，建筑队正在进行公园的翻修工作，然而当他们撞开一个房子的门时，里面却突然涌出了大批的僵尸，于是，一场建筑队与僵尸之间的攻防战就此展开……游戏很有意思，你可以生产厂房增加人口上限，可以招募工人、火枪队、冲击车来对抗僵尸，目的就是防御好自己的基地，并且拆除僵尸盘踞的大楼。如果想要更好的对抗僵尸，建造能够生产资金的厂房是必不可少的哦，当你击败僵尸获得的积分累计到一定程度时，还可以施放积分大技能，对僵尸军团进行一次大冲击哦！还等什么呢~！" />
+<GameKey>
+<ul>
+   <li/>
+   <li>
+      <span class="ico_c_mouseleft"/>鼠标操作</li>
+</ul>
+</GameKey>
+</Game>
+<Game type="swf-iframe" category="敏捷类" name="黄金矿工中文版" img="http://imga3.5054399.com/upload_pic/2012/3/15/4399_16295222433.jpg" intro_url="http://www.4399.com/flash/1602.htm" game_url="http://www.4399.com/flash/1602.htm" iframe_url="http://s1.4399.com:8080/4399swf/upload_swf/ftp5/haibo/20110624/2/jifen2.htm" swf_url="http://s1.4399.com:8080/4399swf/upload_swf/ftp5/haibo/20110624/2/mainload.swf" swf_width="550" swf_height="400">
+<Info category="敏捷小游戏" size="114K" date="2005-04-04" topics="黄金矿工集 中文精选 勋章积分游戏 单人 成年人,白领最爱" intro="" />
+<GameKey>
+<ul>
+   <li>
+      <span class="PlayKey"/>
+   </li>
+   <li>
+      <span class="ico_c_down"/>放钩子</li>
+   <li>
+      <span class="ico_c_up"/>扔炸弹</li>
+</ul>
+</GameKey>
+</Game>
+<Game type="swf" category="敏捷类" name="快刀切水果3" img="http://imga5.5054399.com/upload_pic/7272/8/81279.jpg" intro_url="http://www.4399.com/flash/73386.htm" game_url="http://www.4399.com/flash/73386.htm" swf_url="http://szhong.4399.com/4399swf/upload_swf/ftp12/chenweihong/20130904/cwh1.swf" swf_width="960" swf_height="540">
+<Info category="敏捷小游戏" size="6680K" date="2011-10-28" topics="切水果 挑战类 手机游戏电脑版 单人 男生游戏精选 原创游戏" intro="" />
+<GameKey>
+<ul>
+   <li/>
+   <li>
+      <span class="ico_c_mouseleft"/>鼠标操作</li>
+</ul>
+</GameKey>
+</Game>
+<Game type="swf-iframe" category="敏捷类" name="倒霉熊逃离房间" img="http://imga3.5054399.com/upload_pic/2012/3/12/4399_16014077324.jpg" intro_url="http://www.4399.com/flash/81832.htm" game_url="http://www.4399.com/flash/81832.htm" iframe_url="http://sda.4399.com/4399swf/upload_swf/ftp11/honghao/20130820/x4/jifen3.htm" swf_url="http://sda.4399.com/4399swf/upload_swf/ftp11/honghao/20130820/x4/main.swf" swf_width="660" swf_height="495">
+<Info category="敏捷小游戏" size="9708K" date="2012-02-06" topics="闯关 单人 男生游戏精选 勋章积分游戏" intro="" />
+<GameKey>
+<ul>
+   <li>
+      <span class="PlayKey"/>
+   </li>
+   <li>
+      <span class="ico_c_lr"/>左右移动</li>
+   <li>
+      <span class="ico_c_up"/>跳跃</li>
+   <li>
+      <span class="ico_c_shift"/>拉箱子/加速</li>
+</ul>
+</GameKey>
+</Game>
+<Game type="swf-iframe" category="敏捷类" name="天天酷跑电脑版" img="http://imga3.5054399.com/upload_pic/2014/5/13/4399_15294151662.jpg" intro_url="http://www.4399.com/flash/136667_4.htm" game_url="http://www.4399.com/flash/136667_4.htm" iframe_url="http://szhong.4399.com/4399swf/upload_swf/ftp14/chenweihong/20141104/3/jifen3.htm" swf_url="http://szhong.4399.com/4399swf/upload_swf/ftp14/chenweihong/20141104/3/main.swf" swf_width="660" swf_height="372">
+<Info category="敏捷小游戏" size="14548K" date="2014-05-13" topics="手机游戏电脑版 跑酷 原创游戏 勋章积分游戏" intro="" />
+<GameKey>
+<ul>
+   <li>
+      <span class="PlayKey"/>
+   </li>
+   <li>
+      <span class="ico_c_up"/>跳跃</li>
+   <li>
+      <span class="ico_c_down"/>下滑</li>
+</ul>
+</GameKey>
+</Game>
+<Game type="swf" category="敏捷类" name="猫和老鼠炸弹堂" img="http://imga4.5054399.com/upload_pic/2012/3/13/4399_10181031796.jpg" intro_url="http://www.4399.com/flash/67208_1.htm" game_url="http://www.4399.com/flash/67208_1.htm" swf_url="http://szhong.4399.com/4399swf/upload_swf/ftp6/fanyiss/20110812/8.swf" swf_width="750" swf_height="563">
+<Info category="敏捷小游戏" size="3160K" date="2011-08-24" topics="猫和老鼠 泡泡堂全集 原创游戏 双人小游戏 男生游戏精选" intro="" />
+<GameKey>
+<ul>
+   <li>
+      <span class="player1"/>
+   </li>
+   <li>
+      <span class="ico_c_wasd"/>移动</li>
+   <li>
+      <span class="ico_c_space"/>放置炸弹</li>
+</ul>
+<ul>
+   <li>
+      <span class="player2"/>
+   </li>
+   <li>
+      <span class="ico_c_arrows"/>移动</li>
+   <li>
+      <span class="ico_key">0</span>放置炸弹</li>
+</ul>
+</GameKey>
+</Game>
+<Game type="swf-iframe" category="休闲类" name="我的世界网页版" img="http://imga3.5054399.com/upload_pic/2013/4/22/4399_09323645616.jpg" intro_url="http://www.4399.com/flash/114657_2.htm" game_url="http://www.4399.com/flash/114657_2.htm" iframe_url="http://sxiao.4399.com/4399swf/upload_swf/ftp10/weijianp/20130422/1/114657u4.htm" swf_url="" swf_width="960" swf_height="600">
+<Info category="休闲小游戏" size="1172K" date="2013-04-22" topics="像素 Unity3D 单人 3D游戏 手机游戏电脑版" intro="" />
+<GameKey>
+<ul>
+   <li/>
+   <li>
+      <span class="ico_c_mouseleft"/>左键消除/右键建筑</li>
+   <li>
+      <span class="ico_c_wasd"/>移动</li>
+   <li>
+      <span class="ico_c_space"/>跳跃</li>
+   <li>
+      <span class="ico_key">E</span>打开方块包</li>
+   <li>
+      <strong>ESC</strong>暂停</li>
+</ul>
+</GameKey>
+</Game>
+<Game type="swf" category="休闲类" name="可爱小幽灵" img="http://imga3.5054399.com/upload_pic/7272/5/40942.jpg" intro_url="http://www.4399.com/flash/40942_3.htm" game_url="http://www.4399.com/flash/40942_3.htm" swf_url="http://s7.4399.com:8080/4399swf/upload_swf/ftp/20101028wen/2.swf" swf_width="750" swf_height="563">
+<Info category="休闲小游戏" size="2623K" date="2010-08-06" topics="万圣节 挑战类" intro="" />
+<GameKey>
+<ul>
+   <li/>
+   <li>
+      <span class="ico_c_arrows"/>移动</li>
+   <li>
+      <span class="ico_c_space"/>附身</li>
+</ul>
+</GameKey>
+</Game>
+<Game type="swf-iframe" category="休闲类" name="Q版泡泡堂" img="http://imga2.5054399.com/upload_pic/2012/10/26/4399_17501050008.jpg" intro_url="http://www.4399.com/flash/3881.htm" game_url="http://www.4399.com/flash/3881.htm" iframe_url="http://s1.4399.com:8080/4399swf/upload_swf/ftp10/fanyiss/20130330/1/jifen2.htm" swf_url="http://s1.4399.com:8080/4399swf/upload_swf/ftp10/fanyiss/20130330/1/mainload.swf" swf_width="640" swf_height="465">
+<Info category="休闲小游戏" size="2068K" date="2008-01-25" topics="泡泡堂全集 双人小游戏 勋章积分游戏 经典" intro="" />
+<GameKey>
+<ul>
+   <li>
+      <span class="PlayKey"/>
+   </li>
+   <li>
+      <span class="ico_c_arrows"/>移动</li>
+   <li>
+      <span class="ico_c_space"/>放炸弹</li>
+</ul>
+<ul>
+   <li>
+      <span class="player1"/>
+   </li>
+   <li>
+      <span class="ico_c_wasd"/>角色移动</li>
+   <li>
+      <span class="ico_c_space"/>放炸弹</li>
+</ul>
+<ul>
+   <li>
+      <span class="player2"/>
+   </li>
+   <li>
+      <span class="ico_c_arrows"/>角色移动</li>
+   <li>
+      <span class="ico_c_enter"/>放炸弹</li>
+   <li/>
+</ul>
+</GameKey>
+</Game>
+<Game type="swf-iframe" category="休闲类" name="TFBOYS成语接龙" img="http://imga5.5054399.com/upload_pic/2015/8/24/4399_10341517258.jpg" intro_url="http://www.4399.com/flash/161419.htm" game_url="http://www.4399.com/flash/161419_1.htm" iframe_url="http://sda.4399.com/4399swf/upload_swf/ftp17/csya/20150824/3/jifen3.htm" swf_url="http://sda.4399.com/4399swf/upload_swf/ftp17/csya/20150824/3/main.swf" swf_width="601" swf_height="505">
+<Info category="休闲小游戏" size="4180K" date="2015-08-27" topics="学习类 原创游戏 4399第四届游戏开发大赛" intro="介绍：亲爱的同学，成语接龙是我们中华民族传统的文字游戏。敢不敢跟我们TFBOYS比一比成语词汇量？" />
+<GameKey>
+<ul>
+   <li/>
+   <li>
+      <span class="ico_c_mouseleft"/>鼠标操作</li>
+   <li>
+      <span class="ico_key">A</span>
+      <strong>~</strong>
+   </li>
+   <li>
+      <span class="ico_key">Z</span>输入成语</li>
+   <li>
+      <span class="ico_c_enter"/>发送信息</li>
+</ul>
+</GameKey>
+</Game>
+<Game type="swf" category="休闲类" name="皮球总动员四人版" img="http://imga2.5054399.com/upload_pic/2015/7/28/4399_15270368984.jpg" intro_url="http://www.4399.com/flash/159976_3.htm" game_url="http://www.4399.com/flash/159976_3.htm" swf_url="http://sda.4399.com/4399swf/upload_swf/ftp16/csya/20150728/1.swf" swf_width="600" swf_height="480">
+<Info category="休闲小游戏" size="731K" date="2015-07-28" topics="三人 吃东西 原创游戏 双人小游戏 4399第四届游戏开发大赛" intro="" />
+<GameKey>
+<ul>
+   <li>
+      <strong>玩家1：</strong>
+   </li>
+   <li>
+      <span class="ico_key">A</span>
+      <span class="ico_key">D</span>左右移动</li>
+   <li>
+      <span class="ico_key">W</span>跳跃</li>
+</ul>
+<ul>
+   <li>
+      <strong>玩家2：</strong>
+   </li>
+   <li>
+      <span class="ico_c_lr"/>左右移动</li>
+   <li>
+      <span class="ico_c_up"/>跳跃</li>
+</ul>
+<ul>
+   <li>
+      <strong>玩家3：</strong>
+   </li>
+   <li>
+      <strong>
+         <span class="ico_key">L</span>‘：</strong>左右移动</li>
+   <li>
+      <span class="ico_key">P</span>跳跃</li>
+</ul>
+<ul>
+   <li>
+      <strong>玩家4：</strong>
+   </li>
+   <li>
+      <span class="ico_key">G</span>
+      <span class="ico_key">J</span>左右移动</li>
+   <li>
+      <span class="ico_key">Y</span>跳跃</li>
+</ul>
+</GameKey>
+</Game>
+<Game type="swf" category="经营类" name="老爹汉堡店" img="http://imga4.5054399.com/upload_pic/2012/3/15/4399_16504592667.jpg" intro_url="http://www.4399.com/flash/159765_2.htm" game_url="http://www.4399.com/flash/159765_2.htm" swf_url="http://s15.4399.com/4399swf/upload_swf/ftp16/gamehwq/20150723/11.swf" swf_width="750" swf_height="563">
+<Info category="模拟经营小游戏" size="19336K" date="2015-07-24" topics="打工挣钱 制作 闯关 单人 中文精选" intro="" />
+<GameKey>
+<ul>
+   <li/>
+   <li>
+      <span class="ico_c_mouseleft"/>鼠标操作</li>
+</ul>
+</GameKey>
+</Game>
+<Game type="swf" category="经营类" name="老爹三明治店中文版" img="http://imga1.5054399.com/upload_pic/2015/7/23/4399_17385706138.jpg" intro_url="http://www.4399.com/flash/159765_2.htm" game_url="http://www.4399.com/flash/159765_2.htm" swf_url="http://s15.4399.com/4399swf/upload_swf/ftp16/gamehwq/20150723/11.swf" swf_width="750" swf_height="563">
+<Info category="模拟经营小游戏" size="19336K" date="2015-07-24" topics="打工挣钱 制作 闯关 单人 中文精选" intro="" />
+<GameKey>
+<ul>
+   <li/>
+   <li>
+      <span class="ico_c_mouseleft"/>鼠标操作</li>
+</ul>
+</GameKey>
+</Game>
+<Game type="swf-iframe" category="经营类" name="朵拉的烧烤店" img="http://imga1.5054399.com/upload_pic/2012/3/31/4399_10360971058.jpg" intro_url="http://www.4399.com/flash/86215.htm" game_url="http://www.4399.com/flash/86215.htm" iframe_url="http://szhong.4399.com/4399swf/upload_swf/ftp8/honghao/20120816/7/Pack_jifen3.htm" swf_url="http://szhong.4399.com/4399swf/upload_swf/ftp8/honghao/20120816/7/main.swf" swf_width="600" swf_height="500">
+<Info category="模拟经营小游戏" size="4800K" date="2012-03-31" topics="朵拉 原创游戏 做饭 制作 勋章积分游戏" intro="" />
+<GameKey>
+<ul>
+   <li>
+      <span class="PlayKey"/>
+   </li>
+   <li>
+      <span class="ico_c_mouseleft"/>鼠标操作</li>
+</ul>
+</GameKey>
+</Game>
+<Game type="swf-iframe" category="经营类" name="阿sue美甲店中文版" img="http://imga3.5054399.com/upload_pic/7272/8/79302.jpg" intro_url="http://www.4399.com/flash/79302.htm" game_url="http://www.4399.com/flash/79302.htm" iframe_url="http://szhong.4399.com/4399swf/upload_swf/ftp8/fanyiss/20120628/6/jifen2.htm" swf_url="http://szhong.4399.com/4399swf/upload_swf/ftp8/fanyiss/20120628/6/mainload.swf" swf_width="640" swf_height="480">
+<Info category="模拟经营小游戏" size="1740K" date="2012-01-01" topics="阿Sue 美甲 勋章积分游戏 Judy系列" intro="" />
+<GameKey>
+<ul>
+   <li>
+      <span class="PlayKey"/>
+   </li>
+   <li>
+      <span class="ico_c_mouseleft"/>鼠标操作</li>
+</ul>
+</GameKey>
+</Game>
+<Game type="swf-iframe" category="经营类" name="朱迪的美容店" img="http://imga1.5054399.com/upload_pic/7272/9/57980.jpg" intro_url="http://www.4399.com/flash/57980.htm" game_url="http://www.4399.com/flash/57980.htm" iframe_url="http://sxiao.4399.com/4399swf/upload_swf/ftp8/fanyiss/20120620/2/jifen2.htm" swf_url="http://sxiao.4399.com/4399swf/upload_swf/ftp8/fanyiss/20120620/2/mainload.swf" swf_width="640" swf_height="480">
+<Info category="模拟经营小游戏" size="1673K" date="2011-05-13" topics="Judy系列 阿Sue MM小游戏 化妆 美容 勋章积分游戏" intro="" />
+<GameKey>
+<ul>
+   <li>
+      <span class="PlayKey"/>
+   </li>
+   <li>
+      <span class="ico_c_mouseleft"/>鼠标操作</li>
+</ul>
+</GameKey>
+</Game>
+<Game type="swf" category="经营类" name="海绵宝宝汉堡王" img="http://imga4.5054399.com/upload_pic/7272/8/76373.jpg" intro_url="http://www.4399.com/flash/76373_1.htm" game_url="http://www.4399.com/flash/76373_1.htm" swf_url="http://sda.4399.com/4399swf/upload_swf/ftp7/yuanwen/20111201/19.swf" swf_width="750" swf_height="563">
+<Info category="模拟经营小游戏" size="930K" date="2011-12-01" topics="海绵宝宝 蛋糕&amp;汉堡 打工挣钱 闯关" intro="" />
+<GameKey>
+<ul>
+   <li/>
+   <li>
+      <span class="ico_c_mouseleft"/>鼠标操作</li>
+</ul>
+</GameKey>
+</Game>
+<Game type="swf-iframe" category="热门" name="幻想纹章1.8" img="http://imga5.5054399.com/upload_pic/2015/9/30/4399_15241955770.jpg" intro_url="http://www.4399.com/flash/163429_4.htm" game_url="http://www.4399.com/flash/163429_4.htm" iframe_url="http://szhong.4399.com/4399swf/upload_swf/ftp17/cwb/20150930/y2/jifen3d.htm" swf_url="http://szhong.4399.com/4399swf/upload_swf/ftp17/cwb/20150930/y2/main.swf" swf_width="700" swf_height="500">
+<Info category="动作小游戏" size="166291K" date="2015-10-05" topics="动漫游戏 格斗 闯关 原创游戏 双人小游戏 男生游戏精选" intro="" />
+<GameKey>
+<ul>
+   <li>
+      <span class="player1"/>
+   </li>
+   <li>
+      <span class="ico_key">A</span>
+      <span class="ico_key">D</span>左右移动</li>
+   <li>
+      <span class="ico_key">S</span>防御</li>
+   <li>
+      <span class="ico_key">J</span>普通攻击</li>
+   <li>
+      <span class="ico_key">K</span>跳跃</li>
+   <li>
+      <span class="ico_key">L</span>瞬步</li>
+   <li>
+      <span class="ico_key">U</span>
+      <span class="ico_key">I</span>
+      <span class="ico_key">O</span>技能</li>
+</ul>
+<ul>
+   <li>
+      <span class="player2"/>
+   </li>
+   <li>
+      <span class="ico_c_lr"/>左右移动</li>
+   <li>
+      <span class="ico_c_down"/>防御</li>
+   <li>
+      <span class="ico_key">1</span>普通攻击</li>
+   <li>
+      <span class="ico_key">2</span>跳跃</li>
+   <li>
+      <span class="ico_key">3</span>瞬步</li>
+   <li>
+      <span class="ico_key">4</span>
+      <span class="ico_key">5</span>
+      <span class="ico_key">6</span>技能</li>
+</ul>
+<ul>
+   <li>
+      <span class="ico_c_enter"/>暂停/出招表</li>
+   <li>
+      <strong>ESC键：</strong>返回菜单</li>
+</ul>
+</GameKey>
+</Game>
+<Game type="swf-iframe" category="热门" name="变形金刚战记" img="http://imga4.5054399.com/upload_pic/2015/10/1/4399_11433406219.jpg" intro_url="http://www.4399.com/flash/163478_3.htm" game_url="http://www.4399.com/flash/163478_3.htm" iframe_url="http://s15.4399.com/4399swf/upload_swf/ftp17/cwb/20151001/y1/jifen3.htm" swf_url="http://s15.4399.com/4399swf/upload_swf/ftp17/cwb/20151001/y1/main.swf" swf_width="800" swf_height="600">
+<Info category="射击小游戏" size="9170K" date="2015-10-06" topics="变形金刚 机器人 闯关 原创游戏 双人小游戏 男生游戏精选" intro="" />
+<GameKey>
+<ul>
+   <li>单人游戏：</li>
+   <li>
+      <span class="ico_c_mouseleft"/>瞄准射击</li>
+   <li>
+      <span class="ico_key">A</span>
+      <span class="ico_key">D</span>左右移动</li>
+   <li>
+      <span class="ico_key">W</span>跳跃(可二段跳)</li>
+   <li>
+      <span class="ico_key">S</span>变形</li>
+   <li>
+      <span class="ico_key">J</span>子弹</li>
+</ul>
+<ul>
+   <li>双人游戏：</li>
+</ul>
+<ul>
+   <li>
+      <span class="player1"/>
+   </li>
+   <li>
+      <span class="ico_c_mouseleft"/>鼠标操作</li>
+   <li>
+      <span class="ico_c_lr"/>左右移动</li>
+   <li>
+      <span class="ico_c_up"/>跳跃(可二段跳)</li>
+   <li>
+      <span class="ico_c_down"/>变形</li>
+</ul>
+<ul>
+   <li>
+      <span class="player2"/>
+   </li>
+   <li>
+      <span class="ico_key">A</span>
+      <span class="ico_key">D</span>左右移动</li>
+   <li>
+      <span class="ico_key">W</span>跳跃（可二段跳）</li>
+   <li>
+      <span class="ico_key">S</span>变形</li>
+   <li>
+      <span class="ico_key">J</span>瞄准射击</li>
+   <li>
+      <span class="ico_key">K</span>切换瞄准目标</li>
+</ul>
+<ul>
+   <li>
+      <span class="ico_c_space"/>技能1</li>
+   <li>
+      <span class="ico_key">Q</span>技能2</li>
+   <li>
+      <span class="ico_key">E</span>技能3</li>
+</ul>
+</GameKey>
+</Game>
+<Game type="swf-iframe" category="热门" name="史上最贱小游戏13" img="http://imga2.5054399.com/upload_pic/2015/6/13/4399_10374937031.jpg" intro_url="http://www.4399.com/flash/157666_2.htm" game_url="http://www.4399.com/flash/157666_2.htm" iframe_url="http://sda.4399.com/4399swf/upload_swf/ftp16/gamehwq/20150613/01a/game.htm" swf_url="http://sda.4399.com/4399swf/upload_swf/ftp16/gamehwq/20150613/01a/game.swf" swf_width="750" swf_height="563">
+<Info category="益智小游戏" size="11241K" date="2015-06-13" topics="史上最坑爹的 解谜 闯关 整蛊 手机游戏电脑版" intro="" />
+<GameKey>
+<ul>
+   <li/>
+   <li>
+      <span class="ico_c_mouseleft"/>鼠标操作</li>
+</ul>
+</GameKey>
+</Game>
+</Games>

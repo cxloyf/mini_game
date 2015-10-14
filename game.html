@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Game</title>
+    <script type="text/javascript" src="js/jquery-2.1.4.js"></script>
+    <script type="text/javascript" src="js/jssdk-v2.js"></script>
+</head>
+<body>
+    <div id="games">
+
+    </div>
+<script>
+    bdc.app.init({
+        appId: 4019
+    });
+    bdc.app.ready();
+    $(document).ready(function(){
+        $.get("data/4399_results.xml",function(xml){
+
+            $(xml).find("Game").each(function(){
+                var swf_url = $(this).attr("swf_url");
+                var name    = $(this).attr("name");
+                var pic     = $(this).attr("img");
+                var height  = $(this).attr("swf_height");
+                var width   = $(this).attr("swf_width");
+                var htmlEle = '<div class="game" style="cursor:pointer" >' +
+                        '<img src="' + pic + '"/>' +
+                        '<div id="gameInfo" data_url="' + swf_url + '" data_width="' + width + '" data_height="' + height + '">' + name + '</div>' +
+                        '</div>';
+                $("#games").append(htmlEle);
+            });
+        });
+
+
+        $("#games").delegate(".game",'click', function(event){
+            var data = {
+                app_id  : 4018,
+                timeout : 0,
+                url     : $(this).children("#gameInfo").attr("data_url"),
+                source_info :{
+                    input_string : JSON.stringify({
+                        title   : $(this).children("#gameInfo").text(),
+                        height  : $(this).children("#gameInfo").attr("data_height"),
+                        width   : $(this).children("#gameInfo").attr("data_width")
+                    })
+                }
+            };
+
+            bdc.external.appSend(
+                    'local/cross/app_open_url',
+                    data || {},
+                    function(){
+
+                    }
+            );
+        });
+    });
+
+</script>
+</body>
+</html>

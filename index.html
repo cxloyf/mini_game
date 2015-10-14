@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>location</title>
+  <script src="jquery-2.1.4.min.js"></script>
+</head>
+<body>
+  <p id="demo">坐标：</p>
+  <script>
+var x =document.getElementById("demo");
+  function getLocation(){
+        if( navigator.geolocation ){
+          
+           navigator.geolocation.getCurrentPosition(showPosition, showErr); 
+        }
+    }
+
+    function showPosition(position){
+        var argLocation = position.coords.latitude + ',' + position.coords.longitude;
+        $.ajax('http://api.map.baidu.com/geocoder/v2/', {
+            dataType: 'jsonp',
+            jsonp: 'callback',
+            data: {
+                ak : "0Eacee6ee75c247a4c950b84255932fb",
+                coordtype : 'wgs84ll',
+                location  :  argLocation,
+                output    : 'json',
+                pois      : 0
+            },
+            success: function(oData) {
+                    if( oData.status == 0 && oData.result){
+                        var city = oData.result.addressComponent.city;
+                        var district =  oData.result.addressComponent.district; 
+                        x.innerHTML =  city + '|' + district;
+                    }
+                }  
+            });
+    }
+
+    function showErr(error){
+        x.innerHTML = '获取失败';
+    }  
+
+    getLocation();
+</script>
+</body>
+</html>
